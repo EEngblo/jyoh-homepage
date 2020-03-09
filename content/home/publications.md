@@ -56,4 +56,4 @@ subtitle = ""
 <span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
 <em><span style="color:#770001;">17th ACM Annual International Conference on Mobile Systems, Applications, and Services (MobiSys)</span>, 2019</em>
 
-I'm still studying hard to fill this more :)
+I'm keep studying hard to fill this more :)
