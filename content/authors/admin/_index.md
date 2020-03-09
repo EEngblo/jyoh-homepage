@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, this is Jinyoung Oh. I'm currently an Undergraduate student at KAIST, and I am going to be a member of Computer Architecture and Systems Laboratory at KAIST as a Master's student.
+Hello, this is Jinyoung Oh. I'm currently an Undergraduate student at KAIST, and I am going to be a member of Computer Architecture and Systems Laboratory [(CASys Lab)](http://casys.kaist.ac.kr/) at KAIST as a Master's student.
