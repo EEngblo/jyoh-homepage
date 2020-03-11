@@ -42,7 +42,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/jinyoung_oh_cv.pdf
+  link: files/jinyoung_oh_cv_200311.pdf
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jinyoungoh@kaist.ac.kr'  # For a direct email link, use "mailto:test@example.org".
