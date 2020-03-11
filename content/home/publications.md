@@ -58,6 +58,6 @@ subtitle = ""
 
 **(Anonymized yet)**      
 <span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
-<em><span style="color:#770001;">23th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)</span>, 2020 (to appear)</em>
+<em><span style="color:#770001;">23rd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)</span>, 2020 (to appear)</em>
 
 I'm keep studying hard to fill this more :)
