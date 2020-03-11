@@ -56,4 +56,8 @@ subtitle = ""
 <span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
 <em><span style="color:#770001;">17th ACM Annual International Conference on Mobile Systems, Applications, and Services (MobiSys)</span>, 2019</em>
 
+**(Anonymized yet)**      
+<span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
+<em><span style="color:#770001;">23th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)</span>, 2020 (to appear)</em>
+
 I'm keep studying hard to fill this more :)
