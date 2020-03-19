@@ -32,7 +32,7 @@ subtitle = ""
   
   # Background image.
   image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -52,12 +52,13 @@ subtitle = ""
  css_class = ""
 +++
 
+**I Share, You Care: Private Status Sharing and Sender-Controlled Notifications in Mobile Instant Messaging**      
+<span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
+<em><span style="color:#770001;">23rd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)</span>, 2020 (to appear)</em>
+
 **Demo: Sender-Controlled Mobile Instant Message Notiﬁcations Using Activity Information**      
 <span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
 <em><span style="color:#770001;">17th ACM Annual International Conference on Mobile Systems, Applications, and Services (MobiSys)</span>, 2019</em>
 
-**(Anonymized yet)**      
-<span style="color:#666666">Hyunsung Cho, <u>**Jinyoung Oh**</u>, Juho Kim, Sung-Ju Lee</span>   
-<em><span style="color:#770001;">23rd ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)</span>, 2020 (to appear)</em>
 
 I'm keep studying hard to fill this more :)
