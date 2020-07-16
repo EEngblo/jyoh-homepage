@@ -31,8 +31,12 @@ education:
   courses:
   - course: BSc in Computer Science
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    year: 2016 - 2020
-    gpa: Major GPA 4.26/4.3; Upper GPA 4.3/4.3; Total GPA 4.15/4.3
+    year: 2016 - 2020.8
+    gpa: Major GPA 4.26/4.3; Upper GPA 4.3/4.3; Total GPA 4.16/4.3
+  - course: MSc in Computer Science
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    year: 2020.9 - 
+    gpa: Advised by [Youngjin Kwon](https://sites.google.com/view/yjkwon/home)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, this is Jinyoung Oh. I'm currently an Undergraduate student at KAIST, and I am going to be a member of Computer Architecture and Systems Laboratory [(CASys Lab)](http://casys.kaist.ac.kr/) at KAIST as a Master's student.
+Hello, this is Jinyoung Oh. I'm a Masters student at Computer Architecture and Systems Laboratory [(CASys Lab)](http://casys.kaist.ac.kr/) at KAIST.
