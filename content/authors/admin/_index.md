@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student 
+role: Masters Student 
 
 # Organizations/Affiliations
 organizations:
@@ -29,14 +29,15 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science
-    institution: Korea Advanced Institute of Science and Technology (KAIST)
-    year: 2016 - 2020.8
-    gpa: Major GPA 4.26/4.3; Upper GPA 4.3/4.3; Total GPA 4.16/4.3
   - course: MSc in Computer Science
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     year: 2020.9 - 
     gpa: Advised by [Youngjin Kwon](https://sites.google.com/view/yjkwon/home)
+  - course: BSc in Computer Science
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    year: 2016 - 2020.8
+    gpa: Major GPA 4.26/4.3; Upper GPA 4.3/4.3; Total GPA 4.16/4.3
+    advisor: asfsdf
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

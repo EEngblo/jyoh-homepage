@@ -97,7 +97,7 @@
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
-              <p class="gpa">{{ .gpa }}</p>
+              <p class="gpa">{{ .gpa | markdownify }}</p>
             </div>
           </li>
           {{ end }}
