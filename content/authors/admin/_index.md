@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student 
+role: Master's Student 
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, this is Jinyoung Oh. I'm a Masters student at Computer Architecture and Systems Laboratory [(CASys Lab)](http://casys.kaist.ac.kr/) at KAIST.
+Hello, this is Jinyoung Oh. I'm a Master's student at Computer Architecture and Systems Laboratory [(CASys Lab)](http://casys.kaist.ac.kr/) at KAIST.
