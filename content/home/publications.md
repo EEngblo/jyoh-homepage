@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 24  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
@@ -55,12 +55,11 @@ subtitle = ""
 
 **Persistent Memory Aware Performance Isolation with Dicio**      
 <span style="color:#666666"><u>**Jinyoung Oh**</u>, Youngjin Kwon</span>   
-<em><span style="color:#770001;">12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2021)</span>, 2021</em>
-
+<em><span style="color:#770001;">12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)</span>, 2021</em>
 
 **DiLOS: Adding Performance to Paging-based Memory Disaggregation**      
 <span style="color:#666666">Wonsup Yoon, <u>**Jinyoung Oh**</u>, Jisu Ok, Sue Moon, Youngjin Kwon</span>   
-<em><span style="color:#770001;">ACM SIGCOMM</span>, 2021</em>
+<em><span style="color:#770001;">12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)</span>, 2021</em>
 
 **Poster: Accelerating Disaggregated Data Center Using Unikernel**      
 <span style="color:#666666">Wonsup Yoon, <u>**Jinyoung Oh**</u>, Sue Moon, Youngjin Kwon</span>   

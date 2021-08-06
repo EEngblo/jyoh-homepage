@@ -21,11 +21,9 @@ organizations:
 bio: My research interests include Operating Systems and Computer Architectures.
 
 interests:
-- Operating Systems
-- Computer Architectures
-- Computer Security
-- Mobile Computing
-- Computer Systems for Human
+- Systems for Machine Learning
+- Persistent Memory
+- Resource Disaggregation
 
 education:
   courses:
@@ -48,7 +46,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/jinyoung_oh_cv_200311.pdf
+  link: files/jinyoung_oh_cv.pdf
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jinyoungoh@kaist.ac.kr'  # For a direct email link, use "mailto:test@example.org".
