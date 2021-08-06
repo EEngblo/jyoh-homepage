@@ -57,7 +57,6 @@ subtitle = ""
 <span style="color:#666666"><u>**Jinyoung Oh**</u>, Youngjin Kwon</span>   
 <em><span style="color:#770001;">12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)</span>, 2021</em>
 
-
 **DiLOS: Adding Performance to Paging-based Memory Disaggregation**      
 <span style="color:#666666">Wonsup Yoon, <u>**Jinyoung Oh**</u>, Jisu Ok, Sue Moon, Youngjin Kwon</span>   
 <em><span style="color:#770001;">12th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)</span>, 2021</em>
